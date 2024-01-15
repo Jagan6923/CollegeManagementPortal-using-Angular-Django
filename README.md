@@ -1,0 +1,1 @@
+# CollegeManagementPortal-using-Angular-Django
